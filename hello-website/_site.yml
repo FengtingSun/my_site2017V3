@@ -1,0 +1,43 @@
+name: "my-website"
+output_dir: "."
+navbar:
+  title: "eLearning Resource"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Data Profiling Lesson"
+      menu:
+        - text: "Introduction"
+          href: Introduction.html      
+        - text: "Lesson 1 Data profiling: finding metadata"
+          href: Lesson_1.html
+        - text: "Lesson 2 Profiling tasks"
+          href: Lesson_2.html
+        - text: "Lesson 3 Single-column analysis"
+          href: Lesson_3.html
+        - text: "Lesson 4 Multi-column analysis"
+          href: Lesson_4.html        
+        - text: "Lesson 5 Dependency detection"
+          href: Lesson_5.html    
+        - text: "Lesson 6 Profiling tools"
+          href: Lesson_6.html    
+        - text: "Lesson 7 Next generation profiling"
+          href: Lesson_7.html   
+    - text: "Self-Test"
+      menu:
+        - text: "Lesson 1 Test"
+          href: Self-Test_1.html
+        - text: "Lesson 2 Test"
+          href: Self-Test_2.html
+        - text: "Lesson 3 Test"
+          href: Self-Test_3.html
+        - text: "Lesson 4 Test"
+          href: Self-Test_4.html   
+        - text: "Lesson 5 Test"
+          href: Self-Test_5.html   
+        - text: "Lesson 6 Test"
+          href: Self-Test_6.html   
+        - text: "Lesson 7 Test"
+          href: 
+    - text: "About"
+      href: about.html
