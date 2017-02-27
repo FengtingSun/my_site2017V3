@@ -1,0 +1,19 @@
+---
+title: "About eLearning Resource"
+---
+***
+
+### The idea of Learning Resource:
+Online learning materials can be an effective way to supplement or even supplant other teaching methods. They can be targeted for a wide range of audiences from first year undergrads to PhD students to the general public. While employing sophisticated technology can enhance such materials, typically it is the pedagogic design and execution that determine the effectiveness of such resources.
+
+
+### The goal of this project：
+To develop and evaluation (for pedagogic efficacy) a new eLearning resource for a Computer Science topic.
+
+
+### The project consists of:
+1. Determining an appropriate topic (e.g., by interviewing instructors, analyzing existing material, etc.)
+2. Doing background research both on the topic per se and on any teaching issues that standardly arise with it
+3. Building a resource to address the identified learning need. This could be a webpage, or an animation, or a video, a self-assessment quiz, or a more sophisticated interactive online tool
+4. Evaluating the effect of the resource on learning outcomes
+This project is programming flexible. It is possible to do a good project with little to no programming. 
